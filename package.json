@@ -11,12 +11,15 @@
   "scripts": {
     "test": "mocha test/*.js"
   },
-  "directories" : {
-    "test" : "test/"
+  "directories": {
+    "test": "test/"
   },
   "author": "azu",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/azu/npm-localpaths-example/issues"
+  },
+  "dependencies": {
+    "example-utils": "file:local_modules/example-utils"
   }
 }
