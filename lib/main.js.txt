@@ -1,0 +1,5 @@
+It's main.js usage:
+
+  #help
+
+    Show help message
