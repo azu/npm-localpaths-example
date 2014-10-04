@@ -1,0 +1,9 @@
+{
+  "name": "example-utils",
+  "version": "1.0.0",
+  "description": "local module",
+  "main": "example-utils.js",
+  "private": true,
+  "author": "azu",
+  "license": "MIT"
+}
