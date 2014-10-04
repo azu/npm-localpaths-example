@@ -9,7 +9,7 @@
   },
   "main": "index.js",
   "scripts": {
-    "test": "mocha test/*.js"
+    "main": "node index.js"
   },
   "directories": {
     "test": "test/"
